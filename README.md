@@ -26,7 +26,7 @@ SOFTWARE.
 Cells beginned with: def init_model, def get_grad, model = init_model(), from time import time,
 in the jupyter notebooks are modifications of some portions of the code for 
 https://github.com/maziarraissi/PINNs
-and are therefore combined with the above copyright notice and permmision notice.
+and therefore follow the above copyright notice and permmision notice.
 
 # Transfer-function-prediction-using-machine-learning
 Deep learning (feedforward neural network) code is in the form of jupyter notebook using Tensorflow. 
