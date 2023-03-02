@@ -24,7 +24,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ----------------------------------------------------------------------------------------
 Cells beginned with: def init_model, def get_grad, model = init_model(), from time import time,
-in the jupyter notebooks are modifications of some portions of the code for 
+in the jupyter notebooks are modifications of some portions of the code at 
 https://github.com/maziarraissi/PINNs
 and therefore follow the above copyright notice and permmision notice.
 
