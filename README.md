@@ -1,4 +1,4 @@
-The code is a modification of the code for the work: physics informed neural networks by Raissi, Maziar at https://github.com/maziarraissi/PINNs under MIT License. The License copied here:
+The code is a modification of the code for the work: physics informed neural networks by Raissi, Maziar at https://github.com/maziarraissi/PINNs under MIT License. The License is copied here:
 
 --------------------------------------------------------------------------
 MIT License
